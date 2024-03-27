@@ -1,8 +1,26 @@
-# TAIRP
-One month virtual internship
-Take-A-Intern
-03/2024 - 04/2024, Virtual internship
-Completed level 1
-Task 1 - Portfolio website
-Task 2 - Recipe website
-Task 3 - Image scroll bar
+# TAIRP - Take-A-Intern
+
+Welcome to the **Take-A-Intern** (TAIRP) virtual internship! 🌟
+
+## Overview
+- **Duration**: March 2024 to April 2024
+- **Type**: Virtual internship
+- **Level Completed**: Level 1
+
+## Tasks Completed
+1. **Portfolio Website**
+   - Showcase your skills, projects, and achievements.
+   - Create an impressive online presence.
+   - Highlight your journey and aspirations.
+
+2. **Recipe Website**
+   - Design a platform for sharing delicious recipes.
+   - Explore culinary creativity.
+   - Connect with food enthusiasts.
+
+3. **Image Scroll Bar**
+   - Craft an engaging image carousel.
+   - Display a series of captivating visuals.
+   - Enhance user experience.
+
+Feel free to explore and expand upon these tasks. Happy learning and creating! 🚀
